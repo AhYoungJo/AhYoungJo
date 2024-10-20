@@ -35,8 +35,8 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> 
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Tailwind CSS&logoColor=white">
           <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=Tailwind CSS&logoColor=white">        
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=#06B6D4">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
           <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white">
           <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white">
           <img src="https://img.shields.io/badge/Zustand-123?style=flat&logo=Zustand&logoColor=white">
